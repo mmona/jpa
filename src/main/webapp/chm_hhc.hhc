@@ -1,0 +1,42 @@
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML//EN">
+<HTML>
+<HEAD>
+<meta name="GENERATOR" content="Microsoft&reg; HTML Help Workshop 4.1">
+<!-- Sitemap 1.0 -->
+</HEAD><BODY>
+<OBJECT type="text/site properties">
+	<param name="ImageType" value="Folder">
+</OBJECT>
+<UL>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="目录">
+		</OBJECT>
+	<UL> ;32
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="新闻发布系统">
+			<param name="Local" value="Index.htm">
+            </OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="新闻发布系统">
+			<param name="Local" value="Error.htm">
+            </OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="新闻发布系统">
+			<param name="Local" value="Info.htm">
+            </OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="新闻发布系统">
+			<param name="Local" value="List.htm">
+            </OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="新闻发布系统">
+			<param name="Local" value="Search.htm">
+            </OBJECT>
+          </UL>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="关于CHM 制作精灵">
+		<param name="Local" value="chm_about.htm">
+		<param name="ImageNumber" value="10">
+		</OBJECT>
+</UL>
+</BODY></HTML>
